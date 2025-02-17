@@ -2,7 +2,9 @@
 
 🚀 Overview
 
-Welcome to Water Sort Puzzle – a fun, brain-teasing color sorting game! 🧠✨ Your goal is to sort the colored water into separate tubes using logic and strategy. Can you solve the puzzle before running out of moves? 🤔🎯
+Welcome to Water Sort Puzzle – a fun, brain-teasing color sorting game! 
+🧠✨ Your goal is to sort the colored water into separate tubes using logic and strategy. 
+Can you solve the puzzle before running out of moves? 🤔🎯
 
 🎮 Features
 
@@ -14,19 +16,20 @@ Welcome to Water Sort Puzzle – a fun, brain-teasing color sorting game! 🧠�
 
 📝 Game Rules
 
-1️⃣ Tap a Tube to select it.2️⃣ Tap Another Tube to pour the top-most color into it.3️⃣ You can only pour if:
-
+1️⃣ Tap a Tube to select it.
+2️⃣ Tap Another Tube to pour the top-most color into it.
+3️⃣ You can only pour if:
 The destination tube is not full. 📦
-
 The top colors match in both tubes. 🎨
-
 The destination tube is empty. 🏺
 4️⃣ Win by sorting all colors into separate tubes! 🎉
 5️⃣ Complete the puzzle within the given moves. 🎯
 
 🎮 Controls
 
-🎛️ Undo: Revert last move 🔙🔄 Reset: Restart the game 🔃⚙️ Choose Difficulty: Select your challenge level 🎚️
+🎛️ Undo: Revert last move 
+🔙🔄 Reset: Restart the game 
+🔃⚙️ Choose Difficulty: Select your challenge level 🎚️
 
 ⚙️ Installation & Running the Game
 
@@ -57,7 +60,9 @@ git push origin main
 
 🛠️ Technologies Used
 
-🖥️ HTML: Structure of the game🎨 CSS: Styling and layout🧠 JavaScript: Game logic and interactivity
+🖥️ HTML: Structure of the game
+🎨 CSS: Styling and layout
+🧠 JavaScript: Game logic and interactivity
 
 🤝 Contributions
 
@@ -75,7 +80,7 @@ This project is open-source under the MIT License. 📝
 📩 Contact
 For any issues, feedback, or suggestions, feel free to reach out:
 📧 Email: rajya4107@gmail.com
-🔗 GitHub: 
-💼 LinkedIn: 
+🔗 GitHub: https://github.com/Rajya-V
+💼 LinkedIn: https://www.linkedin.com/in/rajyasri-vakkapati-a525882b6
 
 🔥 Get ready to test your logic and have fun sorting colors! 🔥

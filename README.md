@@ -1,88 +1,81 @@
-Water Sort Puzzle - Color Sort Game
+🌊 Water Sort Puzzle - Color Sort Game 🎨🧪
 
-Overview
+🚀 Overview
 
-The Water Sort Puzzle is a fun and challenging color sorting game where players need to rearrange the colors into separate tubes. The goal is to group all the colors into their respective tubes using a limited number of moves.
+Welcome to Water Sort Puzzle – a fun, brain-teasing color sorting game! 🧠✨ Your goal is to sort the colored water into separate tubes using logic and strategy. Can you solve the puzzle before running out of moves? 🤔🎯
 
-Features
+🎮 Features
 
-Three difficulty levels: Easy, Medium, Hard
+✅ Three Difficulty Levels: Easy, Medium, Hard 🏆
+✅ Randomized Color Combinations 🎨
+✅ Limited Moves Per Difficulty 🎯
+✅ Undo Button to fix mistakes 🔄
+✅ Reset & Choose Difficulty 🔧
 
-Randomly generated color combinations for each game session
+📝 Game Rules
 
-Limited moves based on difficulty level
+1️⃣ Tap a Tube to select it.2️⃣ Tap Another Tube to pour the top-most color into it.3️⃣ You can only pour if:
 
-Undo functionality to revert mistakes
+The destination tube is not full. 📦
 
-Reset and choose difficulty options
+The top colors match in both tubes. 🎨
 
-Game Rules
+The destination tube is empty. 🏺
+4️⃣ Win by sorting all colors into separate tubes! 🎉
+5️⃣ Complete the puzzle within the given moves. 🎯
 
-Click on a tube to select it.
+🎮 Controls
 
-Click on another tube to pour the top-most color layer into it.
+🎛️ Undo: Revert last move 🔙🔄 Reset: Restart the game 🔃⚙️ Choose Difficulty: Select your challenge level 🎚️
 
-You can only pour onto a tube if:
+⚙️ Installation & Running the Game
 
-The tube is not full.
-
-The top color of the source tube matches the top color of the destination tube.
-
-The destination tube is empty.
-
-The game is won when all tubes contain only a single color or are empty.
-
-You must complete the sorting within the given number of moves.
-
-Controls
-
-Undo: Reverts the last move.
-
-Reset: Restarts the game with the current difficulty.
-
-Choose Difficulty: Allows you to change the game difficulty.
-
-Installation & Running the Game
-
-1. Clone the Repository
+1️⃣ Clone the Repository 📂
 
 git clone https://github.com/Rajya-V/Water-Sort-Puzzle---Color-Sort.git
 cd Water-Sort-Puzzle---Color-Sort
 
-2. Open in VS Code
+2️⃣ Open in VS Code 💻
 
 If you have Visual Studio Code installed, open the project with:
 
 code .
 
-3. Run Locally
+3️⃣ Run Locally 🌍
 
 Simply open index.html in a browser or use the Live Server extension in VS Code.
 
-Deployment to GitHub Pages
+🚀 Deploy to GitHub Pages 🌐
 
-If you want to deploy the game on GitHub Pages:
-
-Push the code to GitHub
+1️⃣ Push the code to GitHub
 
 git add .
 git commit -m "Initial commit"
 git push origin main
 
-Enable GitHub Pages in the repository settings under the Pages section.
+2️⃣ Enable GitHub Pages in your repo settings under the Pages section.
 
-Technologies Used
+🛠️ Technologies Used
 
-HTML: Structure of the game
+🖥️ HTML: Structure of the game🎨 CSS: Styling and layout🧠 JavaScript: Game logic and interactivity
 
-CSS: Styling and layout
+🤝 Contributions
 
-JavaScript: Game logic and interactivity
+Love the game? Want to improve it? 🛠️
 
-Contributions
+Fork the repository 🔀
 
-Feel free to fork the repository, make improvements, and submit a pull request.
+Make awesome improvements ✨
 
-License
+Submit a pull request ✅
 
-This project is open-source and available under the MIT License.
+📜 License
+
+This project is open-source under the MIT License. 📝
+📩 Contact
+For any issues, feedback, or suggestions, feel free to reach out:
+📧 Email: rajya4107@gmail.com
+🔗 GitHub: 
+💼 LinkedIn: 
+
+🔥 Get ready to test your logic and have fun sorting colors! 🔥

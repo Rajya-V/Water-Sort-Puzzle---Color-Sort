@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #85d8f9;
+    font-family: cursive;
+  }
+  
+  /* Level Selection Styles */
+  #level-selection {
+    margin: 20px 0;
+  }
+  
+  .level-btn {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Hidden class */
+  .hidden {
+    display: none;
+  }
+  
+  #game-stats {
+    margin-bottom: 100px;
+    font-size: 16px;
+  }
+  
+  #game-stats span {
+    margin: 0 10px;
+    /* You can remove this if you apply a class instead */
+  }
+  
+  /* Apply button style to both buttons and the status display */
+  button, .status {
+    margin: 0 5px;
+    border-radius: 10px;
+    padding: 5px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: black;
+    border: 2px solid skyblue;
+    color: white; 
+    font-family: cursive;
+  }
+  
+  /* Make sure the status display (moves left) doesn't behave like a clickable button */
+  .status {
+    display: inline-block;
+    cursor: default;
+  }
+  
+  #game-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .tube {
+    position: relative;
+    width: 80px;
+    height: 200px;
+    border: 2px solid #555;
+    border-radius: 10px;
+    background: #ddd;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .tube.selected {
+    border-color: #f00;
+  }
+  
+  .water-layer {
+    position: absolute;
+    width: 100%;
+    transition: all 0.4s ease;
+    border-top: 1px solid #fff;
+  }
+  
+  
+  

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Water Sort Puzzle</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Water Sort Puzzle</h1>
+  
+  <!-- Level Selection -->
+  <div id="level-selection">
+    <h2>Select Difficulty Level</h2>
+    <button class="level-btn" data-level="easy">Easy</button>
+    <button class="level-btn" data-level="medium">Medium</button>
+    <button class="level-btn" data-level="hard">Hard</button>
+  </div>
+  
+  <!-- Game Stats and Controls -->
+  <div id="game-stats" class="hidden">
+    <span id="difficulty-display"></span>
+    <!-- Moves Left now has the "status" class to match button styling -->
+    <span id="moves-left" class="status"></span>
+    <button id="undo-button">Undo</button>
+    <button id="reset-button">Reset</button>
+    <button id="choose-difficulty">Choose Difficulty</button>
+  </div>
+  
+  <!-- Game Container -->
+  <div id="game-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
